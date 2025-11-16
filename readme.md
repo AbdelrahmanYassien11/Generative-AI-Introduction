@@ -20,6 +20,29 @@ This is a minimal Python example showing how to use OpenAI's ChatCompletion API 
 
 ---
 
+## 2. LLM Sentiment Classification Counter Example
+
+This is a minimal Python example showing how to use OpenAI's ChatCompletion API
+to classify the sentiment of a restaurant review & then count and print the number of positive and negative sentiments.
+
+## Setup
+
+1. Create and activate a virtual environment.
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Add your API key in a `.env` file:
+    ```
+    OPENAI_API_KEY=your_api_key_here
+    ```
+4. Run:
+    ```bash
+    python main.py
+    ```
+
+---
+
 # Week 1: Introduction to AI & Generative AI
 
 ## 1. Different Types of AI Models
@@ -85,17 +108,3 @@ Steps involved in deploying a generative AI chatbot:
 - **Human-in-the-Loop**: A human monitors and assists the bot, ensuring quality and accuracy.
 - **Bot Triage**: The bot handles most tasks but escalates critical ones to humans.
 - **Full Bot**: The bot handles all tasks independently.
-## 2. LLM Sentiment Classification Counter Example
-
-This is a minimal Python example showing how to use OpenAI's ChatCompletion API
-to classify the sentiment of a restaurant review & then count and print the number of positive and negative sentiments.
-
-## Setup
-
-1. Create and activate a virtual environment.
-2. Install dependencies:
-pip install -r requirements.txt
-3. Add your API key in a `.env` file:
-OPENAI_API_KEY=your_api_key_here
-4. Run:
-python main.py
