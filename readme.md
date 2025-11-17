@@ -124,8 +124,6 @@ Steps involved in deploying a generative AI chatbot:
 - Design the prompt — Minutes to hours  
 - Deploy the system — Days to weeks  
 
----
-
 ## 2. Lifecycle of a Gen-AI Project (Experimental Process)
 
 1. Define the scope of the project  
@@ -134,16 +132,12 @@ Steps involved in deploying a generative AI chatbot:
 4. Iterate between steps (2) and (3) until robust  
 5. Deploy & monitor performance  
 
----
-
 ## 3. Tools to Improve Gen-AI Performance
 
 - Prompting  
 - RAG (Retrieval-Augmented Generation)  
 - Fine-Tune Models  
 - Pre-Trained Models (training from scratch)  
-
----
 
 ## 4. Cost Intuition: Tokens
 
@@ -153,8 +147,6 @@ Steps involved in deploying a generative AI chatbot:
   - Input tokens  
   - Output tokens  
   - Model size  
-
----
 
 ## 5. RAG vs. General LLM Behaviour
 
@@ -174,8 +166,6 @@ Steps involved in deploying a generative AI chatbot:
 
 **RAG transforms LLMs from knowledge sources into reasoning engines.**
 
----
-
 ## 6. Pre-Training & Fine-Tuning
 
 ### 6.1 Pre-Training
@@ -193,8 +183,6 @@ Steps involved in deploying a generative AI chatbot:
 
 **Rule of Thumb:**  
 Start with a pre-trained model, then fine-tune for your specific business needs.
-
----
 
 ## 7. Choosing a Model
 
@@ -215,8 +203,6 @@ Start with a pre-trained model, then fine-tune for your specific business needs.
 - Can run on your own hardware  
 - Maximum privacy and data control  
 
----
-
 ## 8. Instruction Tuning & RLHF
 
 ### 8.1 Instruction Tuning
@@ -227,8 +213,6 @@ Start with a pre-trained model, then fine-tune for your specific business needs.
 - Train a model to score answer quality  
 - LLM generates responses  
 - Model learns to prefer high-scoring answers  
-
----
 
 ## 9. Tool Use
 
@@ -241,8 +225,6 @@ Start with a pre-trained model, then fine-tune for your specific business needs.
 ### 9.2 Reasoning Tools
 - LLMs struggle with math  
 - Require tools (like calculators) for accurate reasoning  
-
----
 
 ## 10. Agents
 
