@@ -238,3 +238,124 @@ Agents use LLMs to perform multi-step, complex actions.
 
 Agents represent cutting-edge Gen-AI capability.
 
+# Week 3: Gen-AI Impact, Jobs, Job Automation & Responsible AI
+
+## 1. Day-to-Day Uses of Gen-AI
+- **Writing Assistant**
+- **Marketer** (Brainstorming)
+- **Recruiter** (Summarizing reviews)
+- **Programmer** (Coding)
+
+---
+
+## 2. Task Analysis of Jobs
+
+### 2.1 Identifying Automation Opportunities
+- Jobs are made of many mini-tasks.
+- Some tasks can be automated even when the full job cannot.
+- Example: **Customer service representatives**.
+
+### 2.2 How to Assess Automation Potential
+- Evaluate whether AI can perform each specific task.
+- Test uncertain tasks with an LLM.
+- Use partial automation to improve workflow.
+
+---
+
+## 3. Augmentation vs. Automation
+- Companies usually begin with **augmentation** (AI assists workers).
+- As models improve, they transition toward **automation** (AI performs tasks independently).
+
+> _Waste — 15/11/2025, 23:24_
+
+---
+
+## 4. Evaluation of AI Potential
+
+### 4.1 Technical Analysis
+- Can the AI do X?
+- Could a **fresh graduate** do it?
+- If unsure, test with an LLM.
+- Enhance capabilities using:
+  - **RAG**
+  - **Fine-tuning**
+
+### 4.2 Business Analysis
+- How much time does the task take?
+- Does augmentation/automation yield ROI?
+- Does improving this workflow increase business value?
+
+### 4.3 Further Job Analysis
+- Most jobs involve **many tasks**, not just one or two.
+- Gen-AI can support multiple task categories, making it widely applicable.
+
+> _Waste — 16/11/2025, 00:12_
+
+---
+
+## 5. Roles Needed to Build Gen-AI Software
+
+### 5.1 Core Technical Roles
+- **Software Engineer**  
+  - Writes code  
+  - Should understand prompting/LLMs  
+- **Machine Learning Engineer**  
+  - Implements AI systems  
+  - Skilled in RAG, prompting, and fine-tuning  
+- **Machine Learning Researcher**  
+  - Conducts advanced research to improve AI models  
+
+### 5.2 Data & Analytics Roles
+- **Data Engineer**  
+  - Ensures data structure and quality  
+- **Data Scientist**  
+  - Analyzes data to guide business decisions  
+
+### 5.3 Product & Coordination Roles
+- **Product Manager**  
+  - Defines project scope and goals  
+- **Project Engineer**  
+  - Coordinates team efforts  
+- **Prompt Engineer**  
+  - Rarely a standalone role  
+
+> _Waste — 16/11/2025, 00:43_
+
+---
+
+## 6. Automation Potential Across Sectors
+- **Supervised learning** affects *lower-wage* jobs more.
+- **Gen-AI & LLMs** impact *higher-wage* jobs significantly.
+- **Knowledge workers** are more impacted than manual labor roles.
+
+> _Waste — 16/11/2025, 01:00_
+
+---
+
+## 7. Concerns About AI
+- Amplifying harmful human behaviors  
+- Job displacement  
+- Extreme-risk scenarios (e.g., extinction)  
+- AI is still valuable even without perfect control  
+
+### 7.1 Artificial General Intelligence (AGI)
+- **Definition:** AI capable of performing *any* intellectual task a human can.
+
+> _Waste — 16/11/2025, 01:10_
+
+---
+
+## 8. Responsible AI
+
+### 8.1 Dimensions of Responsible AI
+- **Fairness**  
+- **Transparency**  
+- **Privacy**  
+- **Security**  
+- **Ethical Use**  
+
+### 8.2 Tips for Responsible AI
+- Foster open discussion about ethical issues.
+- Brainstorm how systems might fail or cause harm.
+- Include diverse perspectives (cultural, ethnic, business).
+
